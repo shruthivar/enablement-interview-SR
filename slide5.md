@@ -28,4 +28,4 @@ A new Vault generic secret is created at /aws/config/root with your AWS access k
 ???
 
 
-This text will appear after the first fragment is shown
+The next step is to add your AWS access keys to Vault. This is necessary to use them dynamically later. Here's an example of how to add your AWS access keys to Vault using Terraform:
