@@ -37,3 +37,4 @@ count: true
 ???
 
 
+In conclusion, we've seen that combining Terraform and Vault can enhance security, automate processes, and provide better infrastructure management. By using both tools together, you can increase security, improve automation and efficiency, scale and audit your infrastructure, implement fine-grained access control, and adapt and extend. I encourage you to consider using Terraform and Vault together for managing your infrastructure and secrets in the cloud.

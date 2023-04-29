@@ -29,4 +29,4 @@ output "secret_key" {value = data.vault_aws_access_credentials.example_creds.sec
 
 ???
 
-
+Now that your AWS access keys are in Vault, you can use Terraform to generate dynamic AWS credentials that can be used by applications and services. Here's an example of how to generate dynamic AWS credentials using Terraform
